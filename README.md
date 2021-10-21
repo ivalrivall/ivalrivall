@@ -16,16 +16,17 @@
      />
   </a>
 </p>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ivalrivall&theme=prussian&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## Let's Connect
 <p>
-  <a target="_blank" href="https://www.linkedin.com/in/ivalrivall/">
-    <img alt="Linkdein" src="https://img.shields.io/badge/LinkedIn-Mohammad%20Miftakhul%20Falah-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a target="_blank" href="https://www.instagram.com/ivalrivall/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-ivalrivall-red?style=for-the-badge&logo=instagram">
-  </a>
+  <a href="https://www.linkedin.com/in/ivalrivall/" target="_blank" title="linkedin">
+      <img align="center" src="/icons/linkedin.svg" alt="linkedin" style="height:24px"/>
+  </a> &nbsp;
+  <a href="https://www.linkedin.com/in/ivalrivall/" target="_blank" title="linkedin">
+      <img align="center" src="/icons/instagram.png" alt="instagram" style="height:24px"/>
+  </a> &nbsp;
 </p>
 
 ## Languages and Tools:
