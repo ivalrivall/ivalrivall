@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ivalrivall&style=for-the-badge)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ivalrivall)](https://github.com/ivalrivall/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ivalrivall)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>
   <a href="https://github.com/ivalrivall/ivalrivall">
