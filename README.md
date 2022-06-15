@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=ivalrivall)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ivalrivall)](https://github.com/ivalrivall/github-profile-trophy)
 
 <p>
