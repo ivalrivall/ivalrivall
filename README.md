@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/ivalrivall/" target="_blank" title="linkedin">
       <img align="center" src="/icons/linkedin.svg" alt="linkedin" style="height:24px"/>
   </a> &nbsp;
-  <a href="https://www.linkedin.com/in/ivalrivall/" target="_blank" title="linkedin">
+  <a href="https://www.linkedin.com/in/ivalrivall/" target="_blank" title="instagram">
       <img align="center" src="/icons/instagram.png" alt="instagram" style="height:24px"/>
   </a> &nbsp;
 </p>
