@@ -24,11 +24,11 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ivalrivall&theme=prussian&date_format=j%20M%5B%20Y%5D)](https://github-readme-streak-stats.herokuapp.com/?user=ivalrivall&theme=prussian&date_format=j%20M%5B%20Y%5D)
 
 ## Let's Connect
-<p>
+<div>
   <a href="https://www.linkedin.com/in/ivalrivall/" target="_blank" title="linkedin" style="text-decoration: none">
       <img align="center" src="/icons/linkedin.svg" alt="linkedin" style="height:24px"/>
   </a> &nbsp;
-</p>
+</div>
 
 ## Languages and Tools:
 <p align="left" class="language">
