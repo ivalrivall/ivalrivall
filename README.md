@@ -48,11 +48,9 @@
 <br />
 <h2 align="center" id="ival-holopin">Holopin</h2>
 <div align="center">
-    <p>
-        <a href="https://holopin.io/@ivalrivall">
-            <img src="https://holopin.io/api/user/board?user=ivalrivall" alt="ival's Holopin board" />
-        </a>
-    </p>
+    <a href="https://holopin.io/@ivalrivall">
+        <img src="https://holopin.io/api/user/board?user=ivalrivall" alt="ival's Holopin board" />
+    </a>
 </div>
 <br />
 <h2 align="center" id="ival-trophies">Github Trophies</h2>
@@ -89,10 +87,12 @@
     </tr>
 </table>
 <br>
-<h2 align="center">Wakatime</h2>
+<h2 align="center" id="wakatime">Wakatime</h2>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ivalrivall&layout=compact"
-        alt="Ival&#39;s WakaTime stats">
+    <a href="#wakatime">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ivalrivall&layout=compact"
+            alt="Ival&#39;s WakaTime stats">
+    </a>
 </div>
 <br />
 <h2 align="center" id="ival-tech">Languages And Tools</h2>
@@ -190,7 +190,9 @@
 <!--STARTS_HERE_QUOTE_CARD-->
 <h2 align="center" id="quote">Thought of the Day</h2>
 <div align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?theme=prussian&font=trebuchet_ms">
+    <a href="#quote">
+        <img src="https://readme-daily-quotes.vercel.app/api?theme=prussian&font=trebuchet_ms">
+    </a>
 </div>
 <!--ENDS_HERE_QUOTE_CARD-->
 
