@@ -1,48 +1,201 @@
-[![@ivalrivall's Holopin board](https://holopin.io/api/user/board?user=ivalrivall)](https://holopin.io/@ivalrivall)
-
-![](https://komarev.com/ghpvc/?username=ivalrivall&style=for-the-badge)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ivalrivall)](https://github.com/ryo-ma/github-profile-trophy)
-
+<!-- Header Name -->
+<h1
+    id="-img-src-https-emojis-slackmojis-com-emojis-images-1531849430-4246-blob-sunglasses-gif-1531849430-width-30-hello-there-i-m-ival">
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
+    Hello there! I&#39;m Ival
+</h1>
 <p>
-  <a href="https://github.com/ivalrivall/ivalrivall">
-    <img
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivalrivall&theme=prussian&layout=compact&border_radius=24"
-         alt="ivalrivall's most used languange"
-         align="center"
-         height="140"
-     />
-  </a>
-  <a href="https://github.com/ivalrivall/ivalrivall">
-    <img
-         src="https://github-readme-stats.vercel.app/api?username=ivalrivall&show_icons=true&theme=prussian&border_radius=24"
-         alt="Github Stats"
-         align="center"
-         height="140"
-     />
-  </a>
+    <em>Digital Craftsman (Developer / Programmer)</em>
+    <br />
+</p>
+<!-- Intro -->
+<p align="left">
+    I am a Developer with a huge love for PHP Programming, RDBMS, REST API and
+    Cloud Computing.
+</p>
+<ul>
+    <li>
+        :office: &nbsp;I&#39;m currently working at
+        <strong>
+            <a href="https://github.com/famous-all-stars" title="Famous Allstars Github Home">Famous Allstars</a>
+        </strong>
+    </li>
+    <li>
+        :speech_balloon: &nbsp;I like to talk about <strong>Tech</strong>, <strong>Investment</strong>, <strong>Home
+            Stuffs</strong> and
+        <strong>Anime</strong>
+    </li>
+    <li>
+        :mailbox: &nbsp;Ask me anything on my
+        <strong>
+            <a href="https://github.com/ivalrivall/ivalrivall/issues" title="ivalrivall/issues">issues page</a>
+        </strong>
+    </li>
+    <li>
+        :computer: &nbsp;Connect with me on
+        <strong>
+            <a href="https://www.linkedin.com/in/ivalrivall/" title="Ival LinkedIn">LinkedIn</a>
+        </strong>
+    </li>
+</ul>
+<!-- Profile Views -->
+<p>
+    <img src="https://komarev.com/ghpvc/?username=ivalrivall&amp;style=for-the-badge" alt="ival's profile views" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ivalrivall&theme=prussian&date_format=j%20M%5B%20Y%5D)](https://github-readme-streak-stats.herokuapp.com/?user=ivalrivall&theme=prussian&date_format=j%20M%5B%20Y%5D)
+---
 
-## Let's Connect
-<div>
-  <a href="https://www.linkedin.com/in/ivalrivall/" target="_blank" title="linkedin" style="text-decoration: none">
-      <img align="center" src="/icons/linkedin.svg" alt="linkedin" style="height:24px"/>
-  </a> &nbsp;
+<br />
+<h2 align="center" id="ival-holopin">Holopin</h2>
+<div align="center">
+    <p>
+        <a href="https://holopin.io/@ivalrivall">
+            <img src="https://holopin.io/api/user/board?user=ivalrivall" alt="ival's Holopin board" />
+        </a>
+    </p>
 </div>
+<br />
+<h2 align="center" id="ival-trophies">Github Trophies</h2>
+<div align="center">
+    <p>
+        <a href="https://github.com/ivalrivall/ivalrivall#ival-trophies">
+            <img src="https://github-profile-trophy.vercel.app/?username=ivalrivall" alt="ival's trophy" />
+        </a>
+    </p>
+</div>
+<br />
+<h2 align="center" id="ival-holopin">Github Stats</h2>
+<table width="100%">
+    <tr>
+        <td width="50%">
+            <h3 align="center"><strong>Github Streak</strong></h3>
+            <p align="center">
+                <a
+                    href="https://github-readme-streak-stats.herokuapp.com/?user=ivalrivall&amp;theme=prussian&amp;date_format=j%20M%5B%20Y%5D">
+                    <img src="https://github-readme-streak-stats.herokuapp.com?user=ivalrivall&amp;theme=prussian&amp;date_format=j%20M%5B%20Y%5D"
+                        alt="Ival's github streak" />
+                </a>
+            </p>
+        </td>
+        <td width="50%">
+            <h3 align="center"><strong>Github Stats</strong></h3>
+            <p align="center">
+                <a href="https://github.com/ivalrivall/ivalrivall">
+                    <img src="https://github-readme-stats.vercel.app/api?username=ivalrivall&show_icons=true&theme=prussian&border_radius=24"
+                        alt="Ival's github stats" />
+                </a>
+            </p>
+        </td>
+    </tr>
+</table>
+<br>
+<h2 align="center">Wakatime</h2>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ivalrivall&layout=compact"
+        alt="Ival&#39;s WakaTime stats">
+</div>
+<br />
+<h2 align="center" id="ival-tech">Languages And Tools</h2>
+<blockquote>
+    <p>Tools, languages, and other things that I like to work with.</p>
+</blockquote>
+<table>
+    <tr>
+        <td align="center" width="96px">
+            <a href="#ival-tech">
+                <img src="https://skillicons.dev/icons?i=graphql" />
+            </a>
+            <br />GraphQL
+        </td>
+        <td align="center" width="96px">
+            <a href="#ival-tech">
+                <img src="https://skillicons.dev/icons?i=mysql" />
+            </a>
+            <br />MySQL
+        </td>
+        <td align="center" width="96px">
+            <a href="#ival-tech">
+                <img src="https://skillicons.dev/icons?i=postgresql" />
+            </a>
+            <br />PostgreSQL
+        </td>
+        <td align="center" width="96px">
+            <a href="#ival-tech">
+                <img src="https://skillicons.dev/icons?i=postman" />
+            </a>
+            <br />Postman
+        </td>
+        <td align="center" width="96px">
+            <a href="#ival-tech">
+                <img src="https://skillicons.dev/icons?i=nginx" />
+            </a>
+            <br />Nginx
+        </td>
+        <td align="center" width="96px">
+            <a href="#ival-tech">
+                <img src="https://skillicons.dev/icons?i=linux" />
+            </a>
+            <br />Linux
+        </td>
+        <td align="center" width="136px">
+            <a href="#ival-tech">
+                <img src="https://skillicons.dev/icons?i=githubactions" />
+            </a>
+            <br />Github Action
+        </td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td align="center" width="96px">
+            <a href="#ival-tech">
+                <img src="https://skillicons.dev/icons?i=php" />
+            </a>
+            <br />PHP
+        </td>
+        <td align="center" width="96px">
+            <a href="#ival-tech">
+                <img src="https://skillicons.dev/icons?i=jquery" />
+            </a>
+            <br />JQuery
+        </td>
+        <td align="center" width="96px">
+            <a href="#ival-tech">
+                <img src="https://skillicons.dev/icons?i=js" />
+            </a>
+            <br />Javascript
+        </td>
+        <td align="center" width="96px">
+            <a href="#ival-tech">
+                <img src="https://skillicons.dev/icons?i=wordpress" />
+            </a>
+            <br />Wordpress
+        </td>
+        <td align="center" width="96px">
+            <a href="#ival-tech">
+                <img src="https://skillicons.dev/icons?i=vue" />
+            </a>
+            <br />Vue
+        </td>
+        <td align="center" width="96px">
+            <a href="#ival-tech">
+                <img src="https://skillicons.dev/icons?i=bootstrap" />
+            </a>
+            <br />Bootstrap
+        </td>
+    </tr>
+</table>
+<br>
 
-## Languages and Tools:
-<p align="left" class="language">
-  <img alt="Visual Studio Code" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img alt="Scss" height="24px" style="margin-left: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-  <img alt="GraphQL" height="24px" style="margin-left: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-  <img alt="MySQL" height="24px" style="margin-left: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-  <img alt="Git" height="24px" style="margin-left: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-  <img alt="Terminal" height="24px" style="margin-left: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-  <img alt="PHP" height="24px" style="margin-left: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-  <img alt="Python" height="24px" style="margin-left: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-  <img alt="Laravel" height="24px" style="margin-left: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png">
-  <img alt="Vue" height="24px" style="margin-left: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
-  <img alt="PostgreSQL" height="24px" style="margin-left: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
-</p>
+<!--STARTS_HERE_QUOTE_CARD-->
+<h2 align="center" id="quote">Thought of the Day</h2>
+<div align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?theme=prussian&font=trebuchet_ms">
+</div>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--Footer-->
+<br>
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" />
+</div>
