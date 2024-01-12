@@ -63,7 +63,7 @@
 </div>
 <br />
 <h2 align="center" id="ival-holopin">Github Stats</h2>
-<table width="100%">
+<table width="100%" align="center">
     <tr>
         <td width="50%">
             <h3 align="center"><strong>Github Streak</strong></h3>
@@ -79,7 +79,7 @@
             <h3 align="center"><strong>Github Stats</strong></h3>
             <p align="center">
                 <a href="https://github.com/ivalrivall/ivalrivall">
-                    <img src="https://github-readme-stats.vercel.app/api?username=ivalrivall&show_icons=true&theme=prussian&border_radius=24"
+                    <img height="185px" src="https://github-readme-stats.vercel.app/api?username=ivalrivall&show_icons=true&theme=prussian"
                         alt="Ival's github stats" />
                 </a>
             </p>
