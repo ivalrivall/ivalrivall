@@ -2,7 +2,7 @@
 <h1
     id="-img-src-https-emojis-slackmojis-com-emojis-images-1531849430-4246-blob-sunglasses-gif-1531849430-width-30-hello-there-i-m-ival">
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
-    Hello there! I&#39;m Ival
+    Hello there! My name is Ival
 </h1>
 <p>
     <em>Digital Craftsman (Developer / Programmer)</em>
