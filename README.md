@@ -92,11 +92,15 @@
     <!--START_SECTION:waka-->
 
 ```txt
-PHP          1 hr            ███████████████████▓░░░░░   78.04 %
-TypeScript   16 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.03 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+From: 02 July 2023 - To: 25 December 2025
+
+Total Time: 1,817 hrs 6 mins
+
+PHP                        855 hrs 45 mins ███████████▒░░░░░░░░░░░░░   44.96 %
+Blade Template             180 hrs 42 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
+TypeScript                 175 hrs 50 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
+Bash                       128 hrs 46 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+Other                      86 hrs 14 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
 ```
 
 <!--END_SECTION:waka-->
