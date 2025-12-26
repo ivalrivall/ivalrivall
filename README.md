@@ -89,10 +89,8 @@
 <br>
 <h2 align="center" id="wakatime">Wakatime</h2>
 <div align="center">
-    <a href="#wakatime">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ivalrivall&layout=compact"
-            alt="Ival&#39;s WakaTime stats">
-    </a>
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <br />
 <h2 align="center" id="ival-tech">Languages And Tools</h2>
