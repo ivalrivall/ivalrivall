@@ -68,7 +68,7 @@
         <td width="50%">
             <h3 align="center"><strong>Weekly Github Streak</strong></h3>
             <p align="center">
-                <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ivalrivall&theme=prussian&mode=weekly" alt="GitHub Streak" /></a>
+                <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-mauve-sigma.vercel.app?user=ivalrivall&theme=prussian&mode=weekly" alt="GitHub Streak" /></a>
             </p>
         </td>
         <td width="50%">
