@@ -91,10 +91,9 @@
 <br />
 <!-- H2 -->
 <h2 align="center" id="ival-github-stats">Github Stats</h2>
-<table width="100%" align="center">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td width="50%">
-<br />
             <!-- H3 -->
             <h3 align="center"><strong>Weekly Github Streak</strong></h3>
             <p align="center">
@@ -107,7 +106,6 @@
             </p>
         </td>
         <td width="50%">
-<br />
             <!-- H3 -->
             <h3 align="center"><strong>Github Stats</strong></h3>
             <p align="center">
@@ -142,8 +140,6 @@
 <!-- H3 -->
 <h3 id="skills"><b>Skills</b></h3>
 <hr />
-
-<br />
 <!-- H4><B>PROGRAMMING -->
 <h4><b>Programming Languages</b></h4>
 
