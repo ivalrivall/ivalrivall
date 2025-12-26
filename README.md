@@ -43,7 +43,7 @@
 <!-- Profile Views -->
 <p>
     <img
-        src="https://komarev.com/ghpvc/?username=ivalrivall&amp;style=for-the-badge"
+        src="https://komarev.com/ghpvc/?username=ivalrivall&style=for-the-badge"
         alt="ival's profile views"
     />
 </p>
@@ -141,7 +141,7 @@
 <h4><b>Frameworks &amp; UI</b></h4>
 
 <img
-    src="https://skills.syvixor.com/api/icons?i=laravel,gin,express,nestjs,payload,strapi,react,vuejs,tailwind,bootstrap&amp;perline=18"
+    src="https://skills.syvixor.com/api/icons?i=laravel,gin,express,nestjs,payload,strapi,react,vuejs,tailwind,bootstrap&perline=18"
     alt="Frameworks and Frontend: Laravel, Gin, Express, NestJS, Payload, Strapi, React, Vue.js, Tailwind, Bootstrap"
 />
 
@@ -149,7 +149,7 @@
 <h4><b>DevOps &amp; Cloud</b></h4>
 
 <img
-    src="https://skills.syvixor.com/api/icons?i=git,docker,kubernetes,terraform,nginx,grafana,prometheus,googlecloud,alicloud,aws&amp;perline=18"
+    src="https://skills.syvixor.com/api/icons?i=git,docker,kubernetes,terraform,nginx,grafana,prometheus,googlecloud,alicloud,aws&perline=18"
     alt="DevOps: Git, Docker, Kubernetes, Terraform, Nginx, Grafana, Prometheus, Google Cloud, AliCloud, AWS"
 />
 
@@ -158,7 +158,7 @@
 <h4><b>Databases</b></h4>
 
 <img
-    src="https://skills.syvixor.com/api/icons?perline=18&amp;i=postgresql,mysql,sqlite,redis,firebase,mongodb"
+    src="https://skills.syvixor.com/api/icons?perline=18&i=postgresql,mysql,sqlite,redis,firebase,mongodb"
     alt="Database: PostgreSQL, MySQL, SQLite, Redis, Firebase, MongoDB"
 />
 
@@ -167,12 +167,12 @@
 <h4 id="tools-platform"><b>Tools &amp; Platforms</b></h4>
 
 <img
-    src="https://skillicons.dev/icons?i=postman,rabbitmq,bun,cpanel&amp;perline=4"
+    src="https://skillicons.dev/icons?i=postman,rabbitmq,bun,cpanel&perline=4"
     alt="Tools: Postman, RabbitMQ, Bun, cPanel"
 />
 
 <img
-    src="https://skillicons.dev/icons?i=coolify,notion,n8n&amp;perline=3"
+    src="https://skillicons.dev/icons?i=coolify,notion,n8n&perline=3"
     alt="Tools: Coolify, Notion, n8n"
 />
 
@@ -181,7 +181,7 @@
 <h4><b>AI Tools</b></h4>
 
 <img
-    src="https://skillicons.dev/icons?i=cline,openai,deepseek,cursor&amp;perline=18"
+    src="https://skillicons.dev/icons?i=cline,openai,deepseek,cursor&perline=18"
     alt="AI Tools: Cline, OpenAI, DeepSeek, Cursor"
 />
 
@@ -189,7 +189,7 @@
 <h4><b>Operating Systems</b></h4>
 
 <img
-    src="https://skills.syvixor.com/api/icons?i=windows,linux,apple,ubuntu,debian&amp;perline=18"
+    src="https://skills.syvixor.com/api/icons?i=windows,linux,apple,ubuntu,debian&perline=18"
     alt="Operating Systems and Platforms: Windows, Linux, Apple, Ubuntu, Debian"
 />
 
@@ -197,7 +197,7 @@
 <h4><b>IDEs &amp; Editors</b></h4>
 
 <img
-    src="https://skills.syvixor.com/api/icons?i=vscode&amp;perline=18"
+    src="https://skills.syvixor.com/api/icons?i=vscode&perline=18"
     alt="IDEs: VS Code"
 />
 
@@ -206,7 +206,7 @@
 <h4><b>Design</b></h4>
 
 <img
-    src="https://skills.syvixor.com/api/icons?i=figma&amp;perline=18"
+    src="https://skills.syvixor.com/api/icons?i=figma&perline=18"
     alt="Design: Figma"
 />
 
