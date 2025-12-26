@@ -54,14 +54,12 @@
 <table align="center" border="0" cellspacing="0" cellpadding="4">
     <tr>
         <td><a href="#ival-holopin">Holopin</a></td>
-        <td><a href="#ival-trophies">Github Trophies</a></td>
         <td><a href="#ival-github-stats">Github Stats</a></td>
         <td><a href="#wakatime">Wakatime</a></td>
     </tr>
     <tr>
         <td><a href="#skills">Skills</a></td>
         <td><a href="#quote">Thought of the Day</a></td>
-        <td></td>
         <td></td>
     </tr>
 </table>
