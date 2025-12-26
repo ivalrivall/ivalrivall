@@ -135,9 +135,8 @@
 </div>
 
 <br />
-<!-- H3 -->
-<h3 id="skills"><b>Skills</b></h3>
-<hr />
+<!-- H2 -->
+<h2 id="skills"><b>Skills</b></h2>
 <!-- H4><B>PROGRAMMING -->
 <h4><b>Programming Languages</b></h4>
 
