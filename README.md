@@ -90,7 +90,16 @@
 <h2 align="center" id="wakatime">Wakatime</h2>
 <div align="center">
     <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+
+```txt
+PHP          1 hr            ███████████████████▓░░░░░   78.04 %
+TypeScript   16 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.03 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+```
+
+<!--END_SECTION:waka-->
 </div>
 <br />
 <h2 align="center" id="ival-tech">Languages And Tools</h2>
