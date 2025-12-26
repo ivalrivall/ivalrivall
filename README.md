@@ -73,7 +73,7 @@
     </a>
 </div>
 
-<h2 align="center" id="ival-trophies">Github Trophies</h2>
+<!-- <h2 align="center" id="ival-trophies">Github Trophies</h2>
 <div align="center">
     <p>
         <a href="https://github.com/ivalrivall/ivalrivall#ival-trophies">
