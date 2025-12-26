@@ -167,12 +167,12 @@
 <h4 id="tools-platform"><b>Tools &amp; Platforms</b></h4>
 
 <img
-    src="https://skillicons.dev/icons?i=postman,rabbitmq,bun,cpanel&perline=4"
+    src="https://skillicons.dev/icons?i=postman,rabbitmq,bun,cpanel&perline=18"
     alt="Tools: Postman, RabbitMQ, Bun, cPanel"
 />
 
 <img
-    src="https://skillicons.dev/icons?i=coolify,notion,n8n&perline=3"
+    src="https://skillicons.dev/icons?i=coolify,notion,n8n&perline=18"
     alt="Tools: Coolify, Notion, n8n"
 />
 
