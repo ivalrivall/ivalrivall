@@ -97,7 +97,7 @@
             <p align="center">
                 <a href="https://github.com/ivalrivall/ivalrivall">
                     <img
-                        src="https://github-readme-streak-stats-mauve-sigma.vercel.app?user=ivalrivall&theme=prussian&mode=weekly&card_height=205"
+                        src="https://github-readme-streak-stats-mauve-sigma.vercel.app?user=ivalrivall&theme=prussian&mode=weekly&card_height=206"
                         alt="GitHub Streak"
                     />
                 </a>
