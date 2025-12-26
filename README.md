@@ -73,7 +73,6 @@
     </a>
 </div>
 
-<!-- <br />
 <h2 align="center" id="ival-trophies">Github Trophies</h2>
 <div align="center">
     <p>
@@ -137,25 +136,16 @@
 <br />
 <!-- H2 -->
 <h2 id="skills"><b>Skills</b></h2>
-<!-- H4><B>PROGRAMMING -->
-<h4><b>Programming Languages</b></h4>
-
-<img
-    src="https://skills.syvixor.com/api/icons?i=php,typescript,json,bash,md,golang,python,javascript&amp;perline=18"
-    alt="Languages: PHP, TypeScript, JSON, Bash, Markdown, Go, Python, JavaScript"
-/>
 
 <br />
-<!-- H4><B>FRAMEWORKS -->
 <h4><b>Frameworks &amp; UI</b></h4>
 
 <img
-    src="https://skills.syvixor.com/api/icons?i=laravel,express,nestjs,react,vuejs,tailwind,bootstrap&amp;perline=18"
-    alt="Frameworks and Frontend: Laravel, Express, NestJS, React, Vue.js, Tailwind, Bootstrap"
+    src="https://skills.syvixor.com/api/icons?i=laravel,gin,express,nestjs,payload,strapi,react,vuejs,tailwind,bootstrap&amp;perline=18"
+    alt="Frameworks and Frontend: Laravel, Gin, Express, NestJS, Payload, Strapi, React, Vue.js, Tailwind, Bootstrap"
 />
 
 <br />
-<!-- H4><B>DEVOPS -->
 <h4><b>DevOps &amp; Cloud</b></h4>
 
 <img
@@ -168,8 +158,8 @@
 <h4><b>Databases</b></h4>
 
 <img
-    src="https://skills.syvixor.com/api/icons?perline=18&amp;i=postgresql,mysql,sqlite,firebase,mongodb"
-    alt="Database: PostgreSQL, MySQL, SQLite, Firebase, MongoDB"
+    src="https://skills.syvixor.com/api/icons?perline=18&amp;i=postgresql,mysql,sqlite,redis,firebase,mongodb"
+    alt="Database: PostgreSQL, MySQL, SQLite, Redis, Firebase, MongoDB"
 />
 
 <br />
@@ -177,12 +167,25 @@
 <h4 id="tools-platform"><b>Tools &amp; Platforms</b></h4>
 
 <img
-    src="https://skillicons.dev/icons?i=postman,rabbitmq,bun&amp;perline=18"
-    alt="Tools: Postman, RabbitMQ, Bun"
+    src="https://skillicons.dev/icons?i=postman,rabbitmq,bun,cpanel&amp;perline=4"
+    alt="Tools: Postman, RabbitMQ, Bun, cPanel"
+/>
+
+<img
+    src="https://skillicons.dev/icons?i=coolify,notion,n8n&amp;perline=3"
+    alt="Tools: Coolify, Notion, n8n"
 />
 
 <br />
-<!-- H4><B>OPERATING -->
+<!-- H4 -->
+<h4><b>AI Tools</b></h4>
+
+<img
+    src="https://skillicons.dev/icons?i=cline,openai,deepseek,cursor&amp;perline=18"
+    alt="AI Tools: Cline, OpenAI, DeepSeek, Cursor"
+/>
+
+<br />
 <h4><b>Operating Systems</b></h4>
 
 <img
@@ -191,7 +194,6 @@
 />
 
 <br />
-<!-- H4><B>IDES -->
 <h4><b>IDEs &amp; Editors</b></h4>
 
 <img
