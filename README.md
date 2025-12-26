@@ -88,7 +88,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <a href="#wakatime">
-<img src="https://github-readme-stats-three-lovat-80.vercel.app/api/wakatime?username=ivalrivall" alt="Ival&#39;s WakaTime stats">
+<img src="https://github-readme-stats-three-lovat-80.vercel.app/api/wakatime?username=ivalrivall&layout=compact&card_width=525" alt="Ival&#39;s WakaTime stats">
 </a>
 <!-- <img src="https://wakatime.com/share/@ivalrivall/16754cb2-eb12-4091-9ac0-f2e23c2e6395.png"/> -->
 </div>
