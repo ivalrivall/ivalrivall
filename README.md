@@ -60,8 +60,9 @@
     </tr>
     <tr>
         <td><a href="#skills">Skills</a></td>
-        <td><a href="#tools-platform">Tools and Platform</a></td>
         <td><a href="#quote">Thought of the Day</a></td>
+        <td></td>
+        <td></td>
     </tr>
 </table>
 
@@ -74,8 +75,7 @@
     </a>
 </div>
 
-<br />
-<!-- H2 -->
+<!-- <br />
 <h2 align="center" id="ival-trophies">Github Trophies</h2>
 <div align="center">
     <p>
@@ -86,7 +86,7 @@
             />
         </a>
     </p>
-</div>
+</div> -->
 
 <br />
 <!-- H2 -->
@@ -176,8 +176,8 @@
 />
 
 <br />
-<!-- H3 -->
-<h3 id="tools-platform"><b>Tools &amp; Platforms</b></h3>
+<!-- H4 -->
+<h4 id="tools-platform"><b>Tools &amp; Platforms</b></h4>
 
 <img
     src="https://skillicons.dev/icons?i=postman,rabbitmq,bun&amp;perline=18"
