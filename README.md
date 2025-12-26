@@ -91,8 +91,7 @@
 <div align="center">
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<br />
-<figure><embed src="https://wakatime.com/share/@ivalrivall/b0e5864f-53ae-40dd-81a7-5c1a9a0e827d.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@ivalrivall/16754cb2-eb12-4091-9ac0-f2e23c2e6395.svg"></embed></figure>
 </div>
 <br />
 <h2 align="center" id="ival-tech">Languages And Tools</h2>
