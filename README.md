@@ -75,7 +75,7 @@
             <h3 align="center"><strong>Github Stats</strong></h3>
             <p align="center">
                 <a href="https://github.com/ivalrivall/ivalrivall">
-                    <img height="185px" src="https://github-readme-stats.vercel.app/api?username=ivalrivall&show_icons=true&theme=prussian"
+                    <img height="185px" src="https://github-readme-stats-three-lovat-80.vercel.app/api?username=ivalrivall&show_icons=true&theme=prussian"
                         alt="Ival's github stats" />
                 </a>
             </p>
@@ -87,7 +87,7 @@
 <div align="center">
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<figure><embed src="https://wakatime.com/share/@ivalrivall/16754cb2-eb12-4091-9ac0-f2e23c2e6395.svg"></embed></figure>
+<img src="https://wakatime.com/share/@ivalrivall/16754cb2-eb12-4091-9ac0-f2e23c2e6395.png"/>
 </div>
 <br />
 <h2 align="center" id="ival-tech">Languages And Tools</h2>
