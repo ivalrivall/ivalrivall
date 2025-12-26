@@ -89,21 +89,10 @@
 <br>
 <h2 align="center" id="wakatime">Wakatime</h2>
 <div align="center">
-    <!--START_SECTION:waka-->
-
-```txt
-From: 02 July 2023 - To: 25 December 2025
-
-Total Time: 1,817 hrs 6 mins
-
-PHP                        855 hrs 45 mins ███████████▒░░░░░░░░░░░░░   44.96 %
-Blade Template             180 hrs 42 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
-TypeScript                 175 hrs 50 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
-Bash                       128 hrs 46 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
-Other                      86 hrs 14 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
-```
-
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+<br />
+<figure><embed src="https://wakatime.com/share/@ivalrivall/b0e5864f-53ae-40dd-81a7-5c1a9a0e827d.svg"></embed></figure>
 </div>
 <br />
 <h2 align="center" id="ival-tech">Languages And Tools</h2>
