@@ -57,7 +57,7 @@
 <div align="center">
     <p>
         <a href="https://github.com/ivalrivall/ivalrivall#ival-trophies">
-            <img src="https://github-profile-trophy-ten-xi.vercel.app/?username=ivalrivall" alt="ival's trophy" />
+            <img src="https://github-profile-trophy-ten-xi.vercel.app/?username=ivalrivall&column=5&margin-w=15&margin-h=15" alt="ival's trophy" />
         </a>
     </p>
 </div>
