@@ -66,13 +66,9 @@
 <table width="100%" align="center">
     <tr>
         <td width="50%">
-            <h3 align="center"><strong>Github Streak</strong></h3>
+            <h3 align="center"><strong>Weekly Github Streak</strong></h3>
             <p align="center">
-                <a
-                    href="https://github-readme-streak-stats.herokuapp.com/?user=ivalrivall&amp;theme=prussian&amp;date_format=j%20M%5B%20Y%5D">
-                    <img src="https://github-readme-streak-stats.herokuapp.com?user=ivalrivall&amp;theme=prussian&amp;date_format=j%20M%5B%20Y%5D"
-                        alt="Ival's github streak" />
-                </a>
+                <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ivalrivall&theme=prussian&mode=weekly" alt="GitHub Streak" /></a>
             </p>
         </td>
         <td width="50%">
