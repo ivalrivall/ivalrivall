@@ -60,7 +60,7 @@
     <tr>
         <td><a href="#skills">Skills</a></td>
         <td><a href="#quote">Thought of the Day</a></td>
-        <td></td>
+        <td><a href="#support">Support My Journey</a></td>
     </tr>
 </table>
 
@@ -225,6 +225,25 @@
 
 <!--Footer-->
 <br />
+<h2 align="center" id="support">Support My Journey</h2>
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0" style="border: none !important; border-collapse: collapse;">
+    <tr>
+      <td align="center" style="padding: 10px; border: none !important;">
+        <a href="https://github.com/sponsors/ivalrivall">
+          <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23ea4aaa" height="36" alt="Sponsor on GitHub" />
+        </a>
+      </td>
+      <td align="center" style="padding: 10px; border: none !important;">
+        <a href='https://ko-fi.com/N4N71WTLS8' target='_blank'>
+          <img height="36" src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+        </a>            
+      </td>
+    </tr>
+  </table>
+</div>
+
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" />
 </div>
