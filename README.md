@@ -141,8 +141,8 @@
 <h4><b>Frameworks &amp; UI</b></h4>
 
 <img
-    src="https://skills.syvixor.com/api/icons?i=laravel,gin,express,nestjs,payload,strapi,react,vuejs,tailwind,bootstrap&perline=18"
-    alt="Frameworks and Frontend: Laravel, Gin, Express, NestJS, Payload, Strapi, React, Vue.js, Tailwind, Bootstrap"
+    src="https://skills.syvixor.com/api/icons?i=laravel,gin,golang,express,nestjs,payload,strapi,react,nextjs,vuejs,tailwind,bootstrap&perline=18"
+    alt="Frameworks and Frontend: Laravel, Gin, Golang, Express, NestJS, Payload, Strapi, React, Next.js, Vue.js, Tailwind, Bootstrap"
 />
 
 <br />
@@ -181,8 +181,8 @@
 <h4><b>AI Tools</b></h4>
 
 <img
-    src="https://skills.syvixor.com/api/icons?i=cline,openai,deepseek,cursor&perline=18"
-    alt="AI Tools: Cline, OpenAI, DeepSeek, Cursor"
+    src="https://skills.syvixor.com/api/icons?i=cline,chatgpt,deepseek,cursor,opencode&perline=18"
+    alt="AI Tools: Cline, ChatGPT, DeepSeek, Cursor, OpenCode"
 />
 
 <br />
