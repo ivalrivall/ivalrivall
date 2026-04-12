@@ -181,8 +181,8 @@
 <h4><b>AI Tools</b></h4>
 
 <img
-    src="https://skills.syvixor.com/api/icons?i=cline,chatgpt,deepseek,cursor,opencode&perline=18"
-    alt="AI Tools: Cline, ChatGPT, DeepSeek, Cursor, OpenCode"
+    src="https://skills.syvixor.com/api/icons?i=cline,chatgpt,deepseek,cursor,opencode,googlegemini&perline=18"
+    alt="AI Tools: Cline, ChatGPT, DeepSeek, Cursor, OpenCode, Gemini"
 />
 
 <br />
