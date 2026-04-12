@@ -167,8 +167,8 @@
 <h4 id="tools-platform"><b>Tools &amp; Platforms</b></h4>
 
 <img
-    src="https://skills.syvixor.com/api/icons?perline=8&i=postman,rabbitmq,bun,cpanel,coolify,notion,n8n"
-    alt="Tools: Postman, RabbitMQ, Bun, cPanel, Coolify, Notion, n8n"
+    src="https://skills.syvixor.com/api/icons?perline=8&i=postman,rabbitmq,bun,cpanel,coolify,notion,n8n,tailscale"
+    alt="Tools: Postman, RabbitMQ, Bun, cPanel, Coolify, Notion, n8n, Tailscale"
 />
 
 <br />
