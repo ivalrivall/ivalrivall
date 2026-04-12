@@ -149,8 +149,8 @@
 <h4><b>DevOps &amp; Cloud</b></h4>
 
 <img
-    src="https://skills.syvixor.com/api/icons?i=git,docker,kubernetes,terraform,nginx,grafana,prometheus,googlecloud,alicloud,aws&perline=18"
-    alt="DevOps: Git, Docker, Kubernetes, Terraform, Nginx, Grafana, Prometheus, Google Cloud, AliCloud, AWS"
+    src="https://skills.syvixor.com/api/icons?perline=8&i=git,docker,kubernetes,terraform,nginx,grafana,prometheus,googlecloud,alicloud,aws,cloudflare,vercel"
+    alt="DevOps: Git, Docker, Kubernetes, Terraform, Nginx, Grafana, Prometheus, Google Cloud, AliCloud, AWS, Cloudflare, Vercel"
 />
 
 <br />
@@ -158,7 +158,7 @@
 <h4><b>Databases</b></h4>
 
 <img
-    src="https://skills.syvixor.com/api/icons?perline=18&i=postgresql,mysql,sqlite,redis,firebase,mongodb"
+    src="https://skills.syvixor.com/api/icons?perline=8&i=postgresql,mysql,sqlite,redis,firebase,mongodb"
     alt="Database: PostgreSQL, MySQL, SQLite, Redis, Firebase, MongoDB"
 />
 
@@ -167,13 +167,8 @@
 <h4 id="tools-platform"><b>Tools &amp; Platforms</b></h4>
 
 <img
-    src="https://skills.syvixor.com/api/icons?i=postman,rabbitmq,bun,cpanel&perline=18"
-    alt="Tools: Postman, RabbitMQ, Bun, cPanel"
-/>
-
-<img
-    src="https://skills.syvixor.com/api/icons?i=coolify,notion,n8n&perline=18"
-    alt="Tools: Coolify, Notion, n8n"
+    src="https://skills.syvixor.com/api/icons?perline=8&i=postman,rabbitmq,bun,cpanel,coolify,notion,n8n"
+    alt="Tools: Postman, RabbitMQ, Bun, cPanel, Coolify, Notion, n8n"
 />
 
 <br />
@@ -189,7 +184,7 @@
 <h4><b>Operating Systems</b></h4>
 
 <img
-    src="https://skills.syvixor.com/api/icons?i=windows,linux,apple,ubuntu,debian&perline=18"
+    src="https://skills.syvixor.com/api/icons?perline=8&i=windows,linux,apple,ubuntu,debian"
     alt="Operating Systems and Platforms: Windows, Linux, Apple, Ubuntu, Debian"
 />
 
@@ -197,7 +192,7 @@
 <h4><b>IDEs &amp; Editors</b></h4>
 
 <img
-    src="https://skills.syvixor.com/api/icons?i=vscode&perline=18"
+    src="https://skills.syvixor.com/api/icons?perline=8&i=vscode"
     alt="IDEs: VS Code"
 />
 
@@ -206,7 +201,7 @@
 <h4><b>Design</b></h4>
 
 <img
-    src="https://skills.syvixor.com/api/icons?i=figma&perline=18"
+    src="https://skills.syvixor.com/api/icons?perline=8&i=figma"
     alt="Design: Figma"
 />
 
