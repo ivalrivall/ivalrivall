@@ -141,8 +141,8 @@
 <h4><b>Frameworks &amp; UI</b></h4>
 
 <img
-    src="https://skills.syvixor.com/api/icons?i=laravel,gin,golang,express,nestjs,payload,strapi,react,nextjs,vuejs,tailwind,bootstrap&perline=18"
-    alt="Frameworks and Frontend: Laravel, Gin, Golang, Express, NestJS, Payload, Strapi, React, Next.js, Vue.js, Tailwind, Bootstrap"
+    src="https://skills.syvixor.com/api/icons?i=laravel,gin,golang,express,nestjs,payload,strapi,react,nextjs,vuejs,tailwind,bootstrap,shadcnui&perline=18"
+    alt="Frameworks and Frontend: Laravel, Gin, Golang, Express, NestJS, Payload, Strapi, React, Next.js, Vue.js, Tailwind, Bootstrap, ShadcnUI"
 />
 
 <br />
